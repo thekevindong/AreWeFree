@@ -60,3 +60,4 @@ group projects need better scheduling. this makes it slightly less painful.
 
 ---
 *built by a cs student who got tired of scheduling chaos (with a TON of AI help along the way)*
+*vibecoded*
